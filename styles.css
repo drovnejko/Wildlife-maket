@@ -71,7 +71,7 @@ body{
 }
 .wrapper{
     background-color: #02160B;
-    background-image: url(./img/Background.png);
+    background-image: url(img/Background.png);
     background-size: cover;
     background-position: center;
     min-height: 780px;
